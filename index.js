@@ -9,5 +9,5 @@ function johnLennonFacts(facts){
   let x = 0;
   while (x < facts.length) {
     console.log('${facts[x]}!!!');
-    x++;
+    x++;}
   } return facts
