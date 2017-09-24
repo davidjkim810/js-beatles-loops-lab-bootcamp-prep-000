@@ -7,6 +7,7 @@ x.push(`${musicians[y]} plays ${instruments[y]}`)
 
 function johnLennonFacts(facts){
   let x = 0;
+  var y = [];
   while (x < facts.length) {
     facts.push(`${facts[x]}!!!`);
     x++;}
