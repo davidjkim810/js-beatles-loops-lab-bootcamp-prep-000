@@ -18,6 +18,6 @@ function iLoveTheBeatles (7) {
   var x = [];
   do {
     x.push(`I love the Beatles!`);
-    7++
+    7++;
     while (7 < 15)
 } return x
