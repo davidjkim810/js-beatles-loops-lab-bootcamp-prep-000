@@ -14,4 +14,4 @@ function johnLennonFacts(facts){
 return y
   }
 
-function iLoveTheBeatles (number)
+function iLoveTheBeatles (1)
