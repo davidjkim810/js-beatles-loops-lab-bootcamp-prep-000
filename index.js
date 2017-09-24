@@ -19,5 +19,5 @@ function iLoveTheBeatles (7) {
   do {
     x.push(`I love the Beatles!`);
     7++
-    while (number < 15)
+    while (7 < 15)
 } return x
